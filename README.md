@@ -50,10 +50,6 @@ CherkasovSolution/
 ├── Database/                      # Скрипты базы данных
 │   └── create_db.sql             # Полный скрипт создания БД
 │
-├── Documentation/                 # Документация
-│   ├── ER_Diagram.pdf            # ER-диаграмма базы данных
-│   ├── Class_Diagram.pdf         # Диаграмма классов
-│   └── Report.pdf                # Отчет по практике
 │
 └── README.md                      # Текущий файл
 ```
