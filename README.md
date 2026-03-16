@@ -1,4 +1,6 @@
-# README.md для GitHub проекта Cherkasov
+# Разработчик: Черкасов Никита Александрович 
+# Группа: ИПо-42 
+# Версия: 2.1v
 
 ````markdown
 # Cherkasov-IPO-42-Practice-Teacher-D.B.-Berestov
